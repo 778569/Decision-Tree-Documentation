@@ -84,6 +84,16 @@ Why take highest -  The weight of entropy small mean that data set is more pure.
 Rule Extraction from Decision Tree
 
 # Model validation 
+![image](https://github.com/778569/Decision-Tree-Documentation/assets/52319671/8942b072-79ba-4c38-ba2d-3d5c86750eb4)<br><br>
+
+<h4>Confusion matrix</h4>
+
+![image](https://github.com/778569/Decision-Tree-Documentation/assets/52319671/7a56458d-6c2d-48b3-92c6-7658b5345d73) <br><br>
+
+![image](https://github.com/778569/Decision-Tree-Documentation/assets/52319671/be88e9a1-80f9-4b51-a707-fe6a8ce6313c) <br><br>
+
+<b>Now we can get Idea – Higher classification model in higher or lower accuracy </b>
+
 
 
 
