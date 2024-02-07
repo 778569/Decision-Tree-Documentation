@@ -73,7 +73,7 @@ Why take highest -  The weight of entropy small mean that data set is more pure.
 *Among Age class and income level which one base on split?*
 *So you should calculate the entropy value again and again*
 
-
+# Decision tree Pruning (Document 03)
 
 
 
