@@ -31,3 +31,40 @@ Decision Tree: Hierarchical model for classification and regression, partitionin
 * Entropy
 
 ![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/2e6d2d92-ed5b-469f-9a10-8cba64c960a1)
+
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/6430ac41-7d80-4f27-9966-acbf2b7a4a6c)
+
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/690449fd-ac7c-4b57-8806-da792f7664a2)
+
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/ec72a361-3b1c-4cf1-a63e-ac0e55f489ed)
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/b61d3674-4d37-4d2f-91fe-1f3246b7836a)
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/9309b76e-a53b-4666-9e0d-4e14c4552e15)
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/4cfb5183-1486-4271-919e-a0c3802b75c4)
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/d5f57c8e-7954-4b0c-a761-079e69282227)<br><br>
+
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/68283297-e595-4017-b889-b28f1ca7e70c)
+
+Now apply this information to our equation 
+
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/cc19efc5-5963-4d64-a3d2-b905a38a8946)<br><br>
+
+Compute information gain of each attribute (Age class, income level, profession)
+
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/580c60d1-0a43-4639-855c-c2762cc0190a)<br><br>
+
+Why take highest -  The weight of entropy small mean that data set is more pure. So the different is high mean the weight average entropy is small. So always get pure data set. 
+
+![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/775acfe1-f89d-4a44-8f0c-0ef3994104db) <br><br>
+
+*Among Age class and income level which one base on split?*
+*So you should calculate the entropy value again and again*
+
+
+
+
+
+
+
+
+
+
