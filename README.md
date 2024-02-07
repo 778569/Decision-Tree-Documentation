@@ -71,13 +71,19 @@ Why take highest -  The weight of entropy small mean that data set is more pure.
 ![image](https://github.com/778569/Decision-Tree-Random-Forest--Documentation/assets/52319671/775acfe1-f89d-4a44-8f0c-0ef3994104db) <br><br>
 
 *Among Age class and income level which one base on split?*
-*So you should calculate the entropy value again and again*
+<b>*So you should calculate the entropy value again and again*</b>
 
 # Decision tree Pruning (Document 03)
 
+![image](https://github.com/778569/Decision-Tree-Documentation/assets/52319671/695d2903-3f64-47f9-a27f-e959bf845f03) <br><br>
 
+1.	Pre-pruning
+2.	Post-pruning(backward pruning)
+![image](https://github.com/778569/Decision-Tree-Documentation/assets/52319671/338f5892-7ccf-47e8-a2c4-3e002e3c2921) <br><br>
 
+Rule Extraction from Decision Tree
 
+# Model validation 
 
 
 
